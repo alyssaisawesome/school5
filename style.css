@@ -1,0 +1,59 @@
+body {
+    text-align: center;
+}
+
+#home {
+    color: #FFFFFF;
+    bottom: 0;
+    background-color: cadetblue;
+    display: table;
+    width: 100%;
+    height: 100%;
+    z-index: 9;
+}
+.text {
+   color:aliceblue; 
+}
+marquee {
+    font-size:100;
+}
+
+.travelmaindiv {
+    border:1px solid black;
+    padding-left: 0px;
+    padding-right: 0px;
+    float:none;
+}
+
+.travelmaindiv img {
+    width:100%;
+}
+
+.travelmaindiv hr {
+    width:230px;
+}
+
+.travelmaindiv h5, .travelmaindiv p{
+    margin-left:20px;
+}
+
+.environment_li {
+    margin-top:13px;
+}
+
+.environment_li h4 {
+    border-bottom:1px solid white;
+    padding:8px;
+}
+
+.environment_li img {
+    border-radius:25px;
+}
+
+.environment_li p {
+    margin-top:10px;
+}
+
+.par {
+    font-size:50;
+}
